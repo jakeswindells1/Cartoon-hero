@@ -5,7 +5,7 @@ html, body{
 }
 
 header{
-	background-color: #00ff9f;
+	background-color: red;
 	padding: 40px;
 
 }
@@ -14,6 +14,7 @@ h1{
 	font-size: 90px;
 	color: white;
 	text-align: center;
+	text-shadow: 0 8px 40px black;
 }
 
 header img{
@@ -23,7 +24,8 @@ header img{
     width: 50%;
 	border-radius: 150px;
 	width: 300px;
-	border: 30px solid #120883;
+	border: 30px solid red;
+	box-shadow: 0 10px 20px black;
 }
 
 .content{
@@ -65,4 +67,5 @@ footer ul li{
 	text-align: center;
 	display: inline-block;
 	margin: 0px 5px;
+	border-radius: 0 8px 10px;
 }
