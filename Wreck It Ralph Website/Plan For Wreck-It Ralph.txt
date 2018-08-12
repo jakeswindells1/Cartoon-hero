@@ -1,0 +1,25 @@
+Home{
+no updates needed 11/08/18 -21:34
+}
+
+About{
+few updates needed
+-add more details about ralph
+-add some pictures if avaliable to find
+-add boxes and fine detail
+-new headings (e.g. where he is from,his age,his background,information/paragraph from online- then info about the heading)
+}
+
+His Friends{
+-add pictures of each of them
+
+}
+
+Contact{
+-add contact option
+(eg add option to put name,country,email and description)
+-start email marketing if anyone does signup
+}
+
+overall - finish the website and post it on github
+try get people to view it and to signup or email me 
